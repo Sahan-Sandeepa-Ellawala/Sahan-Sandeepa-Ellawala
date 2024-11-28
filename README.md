@@ -1,7 +1,5 @@
 # Sahan Sandeepa 
 
-![Cloud Architect](https://img.shields.io/badge/Cloud%20Architect-AWS%2C%20Azure%2C%20GCP-blue)
-
 ## About Me
 
 - 🎓 I'm a undergraduate student
@@ -13,8 +11,6 @@
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
